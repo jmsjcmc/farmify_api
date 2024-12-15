@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\Desktop\\Farmify\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\james\\desktop\\farmify\\api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\james\\desktop\\farmify\\api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\james\\desktop\\farmify\\api\\api\\migrations\\20241215104553_addedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\migrations\\20241215104553_addedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\james\\desktop\\farmify\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\james\\desktop\\farmify\\api\\api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\james\\desktop\\farmify\\api\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\james\\desktop\\farmify\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:45:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:37:57.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241215104553_addedusers.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Migrations\\20241215104553_addedusers.cs",
+              "RelativeDocumentMoniker": "Api\\Migrations\\20241215104553_addedusers.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Migrations\\20241215104553_addedusers.cs",
+              "RelativeToolTip": "Api\\Migrations\\20241215104553_addedusers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:45:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T10:39:42.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Api\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Api\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:12:12.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T10:11:53.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Farmify\\Api\\Api\\Models\\User.cs",
+              "RelativeToolTip": "Api\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:09:54.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
