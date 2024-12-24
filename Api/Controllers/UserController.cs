@@ -30,7 +30,9 @@ namespace Api.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] Userlogin login)
         {
-            var user = await _context.Users.SingleOrDefaultAsync(u => u.Username == login.Username);
+            //var user = await _context.Users.SingleOrDefaultAsync(u => u.Username == login.Username);
+            var user = await _context.Users.SingleOrDefaultAsync(u =>
+            u.Username == login.Username || u.Email == login.Username);
             if (user == null)
             {
                 return Unauthorized();
@@ -89,8 +91,10 @@ namespace Api.Controllers
                 Lastname = userdetails.Lastname,
                 Role = userdetails.Role,
                 Username = userdetails.Username,
+                Email = userdetails.Email,
                 Password = BCrypt.Net.BCrypt.HashPassword(userdetails.Password),
-                Avatar = avatarpath
+                Avatar = avatarpath,
+                Status = "Active"
             };
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
@@ -127,6 +131,27 @@ namespace Api.Controllers
             }
             return user;
         }
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<User>>> Getusers()
+        {
+            return await _context.Users
+                .AsNoTracking()
+                .Select(u => new User
+                {
+                    Id = u.Id,
+                    Username = u.Username,
+                    Email = u.Email,
+                    Firstname = u.Firstname,
+                    Middlename = u.Middlename,
+                    Lastname = u.Lastname,
+                    Role = u.Role,
+                    Avatar = u.Avatar,
+                    Status = u.Status
+                })
+                .ToListAsync();
+        }
+
         private async Task<string?> Saveavatar(IFormFile? file)
         {
             if(file == null || file.Length == 0)
