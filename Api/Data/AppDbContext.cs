@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Api.Models;
+using Api.Models.Address;
 
 namespace Api.Data
 {
@@ -15,6 +16,10 @@ namespace Api.Data
         }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Models.Address.Region> Regions { get; set; }
+        public DbSet<Models.Address.Province> Provinces {  get; set; }
+        public DbSet<Models.Address.CityMunicipality> CityMunicipalities { get; set; }
+        public DbSet<Models.Address.Barangay> Barangays { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
