@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\migrations\\20241222112405_initialtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\migrations\\20241222112405_initialtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\migrations\\20241215104553_addedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\migrations\\20241215104553_addedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\address\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\address\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\address\\barangay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\address\\barangay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\address\\citymunicipality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\address\\citymunicipality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\address\\citymunicipality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\address\\citymunicipality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\address\\barangay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\address\\barangay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\models\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\models\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -57,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\farmify_api\\api\\migrations\\20241222112405_initialtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4BC4CA-8C49-4056-9827-3ACA823245CA}|Api\\Api.csproj|solutionrelative:api\\migrations\\20241222112405_initialtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "20241215104553_addedusers.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Migrations\\20241215104553_addedusers.cs",
+              "RelativeDocumentMoniker": "Api\\Migrations\\20241215104553_addedusers.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Migrations\\20241215104553_addedusers.cs",
+              "RelativeToolTip": "Api\\Migrations\\20241215104553_addedusers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T02:33:46.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Barangay.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Models\\Address\\Barangay.cs",
               "RelativeDocumentMoniker": "Api\\Models\\Address\\Barangay.cs",
@@ -86,19 +103,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CityMunicipality.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Models\\Address\\CityMunicipality.cs",
               "RelativeDocumentMoniker": "Api\\Models\\Address\\CityMunicipality.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Models\\Address\\CityMunicipality.cs",
               "RelativeToolTip": "Api\\Models\\Address\\CityMunicipality.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:00:21.689Z"
+              "WhenOpened": "2024-12-25T06:00:21.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Province.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Models\\Address\\Province.cs",
               "RelativeDocumentMoniker": "Api\\Models\\Address\\Province.cs",
@@ -110,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Models\\Address\\Region.cs",
               "RelativeDocumentMoniker": "Api\\Models\\Address\\Region.cs",
@@ -118,11 +136,12 @@
               "RelativeToolTip": "Api\\Models\\Address\\Region.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T05:59:51.243Z"
+              "WhenOpened": "2024-12-25T05:59:51.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Farm.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Models\\Farm.cs",
               "RelativeDocumentMoniker": "Api\\Models\\Farm.cs",
@@ -134,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\appsettings.json",
               "RelativeDocumentMoniker": "Api\\appsettings.json",
@@ -146,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Models\\Address.cs",
               "RelativeDocumentMoniker": "Api\\Models\\Address.cs",
@@ -154,23 +173,25 @@
               "RelativeToolTip": "Api\\Models\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:06:30.101Z"
+              "WhenOpened": "2024-12-25T06:06:30.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Controllers\\UserController.cs",
               "RelativeToolTip": "Api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAcwJgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwJgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:30:36.963Z"
+              "WhenOpened": "2024-12-16T12:30:36.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Models\\User.cs",
               "RelativeDocumentMoniker": "Api\\Models\\User.cs",
@@ -182,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
@@ -194,13 +215,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Api\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Api\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAqwL0AAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAAALABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T06:11:23.862Z",
               "EditorCaption": ""
@@ -213,13 +234,14 @@
               "RelativeDocumentMoniker": "Api\\DTO\\UserDTO.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\DTO\\UserDTO.cs",
               "RelativeToolTip": "Api\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA2wA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:35:06.891Z"
+              "WhenOpened": "2024-12-16T12:35:06.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "20241227123015_addedrelationships.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Migrations\\20241227123015_addedrelationships.cs",
               "RelativeDocumentMoniker": "Api\\Migrations\\20241227123015_addedrelationships.cs",
@@ -231,19 +253,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "20241222112405_initialtest.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Migrations\\20241222112405_initialtest.cs",
               "RelativeDocumentMoniker": "Api\\Migrations\\20241222112405_initialtest.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Migrations\\20241222112405_initialtest.cs",
               "RelativeToolTip": "Api\\Migrations\\20241222112405_initialtest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T11:24:05.686Z"
+              "WhenOpened": "2024-12-22T11:24:05.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Api.csproj",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\farmify_api\\Api\\Api.csproj",
               "RelativeDocumentMoniker": "Api\\Api.csproj",
