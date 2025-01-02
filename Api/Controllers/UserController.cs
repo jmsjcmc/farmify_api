@@ -157,7 +157,7 @@ namespace Api.Controllers
             if(file == null || file.Length == 0)
                 return null;
 
-            var avatarpath = @"C:\Users\James\Desktop\Farmify\Client\src\assets\avatars";
+            var avatarpath = @"C:\Users\jatabilog\Desktop\xxx\farmify_client\src\assets\avatars";
             if(!Directory.Exists(avatarpath))
             {
                 Directory.CreateDirectory(avatarpath);
